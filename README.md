@@ -3,20 +3,20 @@ Small java program for practicing lexical decision tasks
 
 New spread:
 
-![](SampleImages/scrabbleNewSpread.gif){:height="50%" width="50%"}
+![](SampleImages/scrabbleNewSpread.gif)
 
 Drag-And-Drop rearranging:
 
-![](SampleImages/scrabbleRearrange.gif){:height="50%" width="50%"}
+![](SampleImages/scrabbleRearrange.gif)
 
 Shuffling:
 
-![](SampleImages/scrabbleShuffle.gif){:height="50%" width="50%"}
+![](SampleImages/scrabbleShuffle.gif)
 
 Sorting alphabetically:
 
-![](SampleImages/sortABC.mov.gif){:height="50%" width="50%"}
+![](SampleImages/sortABC.mov.gif)
 
 Sorting by score:
 
-![](SampleImages/sort123.mov.gif){:height="50%" width="50%"}
+![](SampleImages/sort123.mov.gif)
